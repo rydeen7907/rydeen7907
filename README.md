@@ -7,8 +7,8 @@
 - ⚡ Fun fact: ...
 
 Google データアナリティクス プロフェッショナル認定資格
-Google AIエッセンシャルズ
-どちらも取得済み
+
+Google AIエッセンシャルズ どちらも取得済み
 
 <!---
 rydeen7907/rydeen7907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
