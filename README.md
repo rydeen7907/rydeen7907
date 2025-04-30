@@ -12,9 +12,7 @@ Google サイバーセキュリティ プロフェッショナル
 The Linux Foundation Linux Education  
 Google AIエッセンシャルズ  
 
+※ 各リポジトリにある "readme.md" はココでは読みにくいかと😭🙇…  
 
-<!---
-rydeen7907/rydeen7907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-※ 各リポジトリにある "readme.md" はココでは読みにくいかと😭🙇…
+＝＝＝ 忘備録 ＝＝＝  
+※ 行末に半角スペース2回入力してEnter押すと改行される
