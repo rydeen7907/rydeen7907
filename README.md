@@ -7,10 +7,11 @@
 - ⚡ Fun fact: ...
 
 < 資格取得・認定済み >
-Google データアナリティクス プロフェッショナル
-Google サイバーセキュリティ プロフェッショナル
-The Linux Foundation Linux Education
-Google AIエッセンシャルズ 
+Google データアナリティクス プロフェッショナル  
+Google サイバーセキュリティ プロフェッショナル  
+The Linux Foundation Linux Education  
+Google AIエッセンシャルズ  
+
 
 <!---
 rydeen7907/rydeen7907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
