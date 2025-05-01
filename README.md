@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-< 資格取得・認定済み >  
+< 資格取得・受講済み >  
 Google データアナリティクス プロフェッショナル  
 Google サイバーセキュリティ プロフェッショナル  
 The Linux Foundation Linux Education  
