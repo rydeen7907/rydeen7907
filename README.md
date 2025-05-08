@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rydeen7907
-- 👀 I’m interested in amateur radio
+- 👀 I’m interested in amateur radio (CALLSIGN: JQ3IAA)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
