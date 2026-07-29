@@ -3,6 +3,8 @@
 Google データアナリティクス プロフェッショナル  
 Google サイバーセキュリティ プロフェッショナル  
 The Linux Foundation Linux Education  
+Linux Kernel Development Beginner's Guide (LFD103-JP)  
+OpenAPI Fundamentals (LFEL1011)  
 Google AIエッセンシャルズ  
 無線従事者(3級アマチュア無線技士 / JQ3IAA)  
 一般社団法人安全運転推進協会 安全運転能力検定4級🚙  
